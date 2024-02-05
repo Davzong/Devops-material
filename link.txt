@@ -1,0 +1,9 @@
+Week 1
+https://spacelift.io/blog/sre-vs-devops
+https://www.browserstack.com/guide/devops-lifecycle. Continue
+https://www.simform.com/blog/devops-lifecycle/.  Tool list
+https://www.spiceworks.com/tech/devops/articles/what-is-devops-lifecycle/ Best practices
+https://www.browserstack.com/guide/devops-lifecycle  +Sec
+
+https://youtu.be/KkV1Uk2G5S0
+
