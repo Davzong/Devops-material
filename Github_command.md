@@ -27,6 +27,17 @@ git commit -m ""
 git status
 ```
 
+**Remove unstracked files from the working free**
+
+    git clean
+
+**Stach the changes in a dirty working directory away**
+
+    git stach
+
+**Undo the changes**
+
+
 ## Commnads between the local files and global files
 
 将更改推送到远程仓库
@@ -60,5 +71,7 @@ push to master branch
 ### Delete branch (*Danger move!!!*)
 
     git branch -d [branch-name]
+
+
 
 
