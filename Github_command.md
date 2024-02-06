@@ -1,43 +1,41 @@
 ## Commnads on the local files
-**inititate the git folder**
+**Inititate the git folder**
 ```test 
 git init
 ```
 
-**put the file staged**
+**Put the file staged**
 ```test
 git add
 ```
 
-**add all modified files**
+**Add all modified files**
 ```test
 git add .
 ```
 
-**submit the modifiled to local**
+**Submit the modifiled to local**
+```test
 git commit -m ""
+```
+
+**Check the git status**
+
+```test
+git status
+```
 
 ## Commnads between the local files and global files
 
+8. 将更改推送到远程仓库:
 
-
-# create a new repository on the command line
 ```test
-echo "# Devops-material" >> README. md git init
-git add README. md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Davzong/myself-repo.git
-git push -u origin main
+git push origin master      # 推送到 master 分支
 ```
 
-# create a new repository from unrepo on the command line
-```test
-git init
-git add README. md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/myself-repo.git
-git push -u origin main
-```
+9. 从远程仓库拉取更改:
+
+git pull origin master      # 从 master 分支拉取
+
+
 
