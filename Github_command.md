@@ -1,4 +1,6 @@
+### [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 ## Commnads on the local files
+
 **Inititate the git folder**
 ```test 
 git init
@@ -27,32 +29,36 @@ git status
 
 ## Commnads between the local files and global files
 
-将更改推送到远程仓库: 
+将更改推送到远程仓库
+### Upload the modiflied files to remote repo
 
 
-推送到 master 分支
-git push origin master      
+push to master branch
 
-9. 从远程仓库拉取更改:
+    git push origin master      
 
-git pull origin master      # 从 master 分支拉取
 
-10. 创建分支:
+### Download the orginal remote repo to modify      
 
-git branch [branch-name]
+    git pull origin master      
 
-11. 切换到其他分支:
+### Create a branch
 
-git checkout [branch-name]
+    git branch [branch-name]
 
-12. 合并分支:
+### Switch to another branch 
+    git checkout 
 
-git merge [branch-name]
+### Merge the branch
 
-13. 删除分支:
+    git merge
 
-git branch -d [branch-name]
 
-14. 查看所有分支:
+### View all the branches
+    git branch
 
-git branch
+### Delete branch (*Danger move!!!*)
+
+    git branch -d [branch-name]
+
+
