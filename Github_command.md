@@ -1,4 +1,5 @@
 ### [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+### [Visual git with remote](https://git-school.github.io/visualizing-git/#free-remote)
 ## Commnads on the local files
 
 **Inititate the git folder**
@@ -31,12 +32,21 @@ git status
 
     git clean
 
-**Stach the changes in a dirty working directory away**
+**Create a temp file of current file put away from working tree (Commit and recorded in git log)**
 
     git stach
+**Put the temp file back to working**
 
+    git apply
 **Undo the changes**
 
+    git revert 
+
+**Git sttaus and history**
+
+    git status
+    git diff
+    git log
 
 ## Commnads between the local files and global files
 
@@ -71,3 +81,12 @@ push to master branch
 ### Delete branch (*Danger move!!!*)
 
     git branch -d [branch-name]
+
+### Update local from remote
+    
+    git fetch
+    git pull
+
+### Download the whole repo and histoies from github
+    git clone
+ 
