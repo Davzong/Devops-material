@@ -40,38 +40,33 @@ git status
 
 ## Commnads between the local files and global files
 
-将更改推送到远程仓库
-### Upload the modiflied files to remote repo
+将更改推送到远程仓库: 
 
 
-push to master branch
-
-    git push origin master      
+推送到 master 分支
+git push origin master      
 
 
 ### Download the orginal remote repo to modify      
 
     git pull origin master      
 
-### Create a branch
+10. 创建分支:
 
-    git branch [branch-name]
+git branch [branch-name]
 
-### Switch to another branch 
-    git checkout 
+11. 切换到其他分支:
 
-### Merge the branch
+git checkout [branch-name]
 
-    git merge
+12. 合并分支:
 
+git merge [branch-name]
 
-### View all the branches
-    git branch
+13. 删除分支:
 
-### Delete branch (*Danger move!!!*)
+git branch -d [branch-name]
 
-    git branch -d [branch-name]
+14. 查看所有分支:
 
-
-
-
+git branch
