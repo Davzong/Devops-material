@@ -50,7 +50,6 @@ git status
 
 ## Commnads between the local files and global files
 
-将更改推送到远程仓库
 ### Upload the modiflied files to remote repo
 
 
