@@ -1,0 +1,16 @@
+# Run nginx server in docker
+docker run --rm --name my-nginx -p 8080:80 -d nginx
+# Check docker stderr and stdout logs
+docker logs my-nginx -f
+# Access nginx server 
+curl http://localhost:8080
+cutl http://localhost:8080/asdf
+‹ # Check log file in docker docker exec --it my-nginx /bin/sh cat /var/log/nginx/access.log cat /var/log/nginx/error.log
+# Why are logs file empty?
+ls-lsrt /var/log/nginx
+# Where are the logs?
+# Check docker root dir
+docker info
+# Grab container id
+docker run -it -v /var/lib/docker:/var/lib/docker alpine sh
+ls /var/lib/docker/
