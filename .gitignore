@@ -1,6 +1,6 @@
 mk
 DevOpsNotes-main/*
-
+kub/
 DevOpsNotes-main.zip
 be-tech-scrum-devops/*
 week3/tutor 
@@ -80,6 +80,69 @@ goexpert_handson/
 kewei zhang/
 week4/openhack-devops-team/
 week4/website-visit-count/
+Paws&Claws Circle-Devops12/
+hello_docker/
 
-
-.DS_Store
+week8/.DS_Store
+week2
+terraform learning/12 - Terraform Checklist.pdf
+terraform learning/12 - Terraform Handout.pdf
+terraform learning/156. 0 - Module Overview -  917K.mp4
+terraform learning/156. 0 - Module Overview -  917K.srt
+terraform learning/157. 1 - Introduction to Terraform -  753K.mp4
+terraform learning/157. 1 - Introduction to Terraform -  753K.srt
+terraform learning/158. 2 - Install Terraform & Setup Terraform Project -  538K.mp4
+terraform learning/158. 2 - Install Terraform & Setup Terraform Project -  538K.srt
+terraform learning/159. 3 - Providers in Terraform -  460K.mp4
+terraform learning/159. 3 - Providers in Terraform -  460K.srt
+terraform learning/160. 4 - Resources & Data Sources -  432K.mp4
+terraform learning/160. 4 - Resources & Data Sources -  432K.srt
+terraform learning/161. 5 - Change & Destroy Terraform Resources -  474K.mp4
+terraform learning/161. 5 - Change & Destroy Terraform Resources -  474K.srt
+terraform learning/162. 6 - Terraform commands -  544K.mp4
+terraform learning/162. 6 - Terraform commands -  544K.srt
+terraform learning/163. 7 - Terraform State -  603K.mp4
+terraform learning/163. 7 - Terraform State -  603K.srt
+terraform learning/164. 8 - Output Values -  426K.mp4
+terraform learning/164. 8 - Output Values -  426K.srt
+terraform learning/165. 9 - Variables in Terraform -  398K.mp4
+terraform learning/165. 9 - Variables in Terraform -  398K.srt
+terraform learning/166. 10 - Environment Variables in Terraform -  371K.mp4
+terraform learning/166. 10 - Environment Variables in Terraform -  371K.srt
+terraform learning/167. 11 - Create Git Repository for local Terraform Project -  372K.mp4
+terraform learning/167. 11 - Create Git Repository for local Terraform Project -  372K.srt
+terraform learning/168. 12 - Automate Provisioning EC2 with Terraform - Part 1 -  461K.mp4
+terraform learning/168. 12 - Automate Provisioning EC2 with Terraform - Part 1 -  461K.srt
+terraform learning/169. 13 - Automate Provisioning EC2 with Terraform - Part 2 -  492K.mp4
+terraform learning/169. 13 - Automate Provisioning EC2 with Terraform - Part 2 -  492K.srt
+terraform learning/170. 14 - Automate Provisioning EC2 with Terraform - Part 3 -  562K.mp4
+terraform learning/170. 14 - Automate Provisioning EC2 with Terraform - Part 3 -  562K.srt
+terraform learning/171. 15 - Provisioners in Terraform -  467K.mp4
+terraform learning/171. 15 - Provisioners in Terraform -  467K.srt
+terraform learning/172. 16 - Modules in Terraform - Part 1 -  597K.mp4
+terraform learning/172. 16 - Modules in Terraform - Part 1 -  597K.srt
+terraform learning/173. 17 - Modules in Terraform - Part 2 -  466K.mp4
+terraform learning/173. 17 - Modules in Terraform - Part 2 -  466K.srt
+terraform learning/174. 18 - Modules in Terraform - Part 3 -  506K.mp4
+terraform learning/174. 18 - Modules in Terraform - Part 3 -  506K.srt
+terraform learning/175. 19 - Automate Provisioning EKS cluster with Terraform - Part 1 -  456K.mp4
+terraform learning/175. 19 - Automate Provisioning EKS cluster with Terraform - Part 1 -  456K.srt
+terraform learning/176. 20 - Automate Provisioning EKS cluster with Terraform - Part 2 -  440K.mp4
+terraform learning/176. 20 - Automate Provisioning EKS cluster with Terraform - Part 2 -  440K.srt
+terraform learning/177. 21 - Automate Provisioning EKS cluster with Terraform - Part 3 -  512K.mp4
+terraform learning/177. 21 - Automate Provisioning EKS cluster with Terraform - Part 3 -  512K.srt
+terraform learning/178. 22 - Complete CI-CD with Terraform - Part 1 -  515K.mp4
+terraform learning/178. 22 - Complete CI-CD with Terraform - Part 1 -  515K.srt
+terraform learning/179. 23 - Complete CI-CD with Terraform - Part 2 -  440K.mp4
+terraform learning/179. 23 - Complete CI-CD with Terraform - Part 2 -  440K.srt
+terraform learning/180. 24 - Complete CI-CD with Terraform - Part 3 -  506K.mp4
+terraform learning/180. 24 - Complete CI-CD with Terraform - Part 3 -  506K.srt
+terraform learning/181. 25 - Remote State in Terraform -  490K.mp4
+terraform learning/181. 25 - Remote State in Terraform -  490K.srt
+terraform learning/182. 26 - Terraform Best Practices -  1011K.mp4
+terraform learning/182. 26 - Terraform Best Practices -  1011K.srt
+terraform learning/183. 0 - Module Overview -  1829K.mp4
+terraform learning/183. 0 - Module Overview -  1829K.srt
+terraform\ learning
+terraform_ec2/
+terraform_ec2_jenkins/
